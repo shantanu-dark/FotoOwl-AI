@@ -1,9 +1,9 @@
-# 🎬 FotoOwl AI
+#  FotoOwl AI
 ## AI-Powered Automated Cinematic Video Generation using Multi-Agent AI
 
 ---
 
-## 📖 Overview
+##  Overview
 
 FotoOwl AI is an AI-powered automated video generation system that transforms a collection of images into a cinematic video using Artificial Intelligence.
 
@@ -13,21 +13,21 @@ The entire workflow is orchestrated using LangGraph's multi-agent architecture.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🤖 Multi-Agent AI Workflow using LangGraph
-- 🧠 Intent Understanding using Groq LLM
-- 📷 Automatic Image Quality Analysis using OpenCV
-- 📚 Retrieval-Augmented Generation (RAG) using ChromaDB
-- 📝 AI Storyboard Generation
-- 🎞 Automatic Timeline Generation
-- 🎥 Automated Video Rendering using Remotion
-- ✨ Cinematic Transitions and Animations
-- ⚡ One-Command Video Generation
+- Multi-Agent AI Workflow using LangGraph
+- Intent Understanding using Groq LLM
+- Automatic Image Quality Analysis using OpenCV
+- Retrieval-Augmented Generation (RAG) using ChromaDB
+- AI Storyboard Generation
+- Automatic Timeline Generation
+- Automated Video Rendering using Remotion
+- Cinematic Transitions and Animations
+- One-Command Video Generation
 
 ---
 
-# 🏗️ System Architecture
+# System Architecture
 
 ```
                      User Prompt
@@ -61,7 +61,7 @@ The entire workflow is orchestrated using LangGraph's multi-agent architecture.
 
 ---
 
-# 🧠 AI Workflow
+# AI Workflow
 
 ## 1. Intent Parser Agent
 
@@ -160,7 +160,7 @@ No manual intervention is required.
 
 ---
 
-# 📚 RAG Workflow
+# RAG Workflow
 
 ```
 User Prompt
@@ -180,7 +180,7 @@ Storyboard Generation
 
 ---
 
-# 🛠 Technologies Used
+# Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -195,7 +195,7 @@ Storyboard Generation
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```
 FotoOwl-AI
@@ -228,7 +228,7 @@ FotoOwl-AI
 
 ---
 
-# ▶️ Installation
+# Installation
 
 ## 1. Clone Repository
 
@@ -276,7 +276,7 @@ python main.py
 
 ---
 
-# 📁 Output
+# Output
 
 Generated files are stored inside:
 
@@ -290,7 +290,7 @@ output/
 
 ---
 
-# 📸 Sample Workflow
+# Sample Workflow
 
 ```
 Input Images
@@ -319,7 +319,7 @@ Final MP4 Video
 
 ---
 
-# 🎯 Objectives
+# Objectives
 
 - Automate cinematic video creation using AI.
 - Reduce manual video editing effort.
@@ -329,7 +329,7 @@ Final MP4 Video
 
 ---
 
-# 📈 Future Enhancements
+# Future Enhancements
 
 - AI Face Recognition
 - Scene Detection
@@ -341,7 +341,7 @@ Final MP4 Video
 
 ---
 
-# 📚 Challenges Faced
+# Challenges Faced
 
 - Migration from Gemini API to Groq due to API quota limitations.
 - Integrating multiple AI agents using LangGraph.
@@ -350,7 +350,7 @@ Final MP4 Video
 
 ---
 
-# 👨‍💻 Authors
+# Authors
 
 **Project Name:** FotoOwl AI
 
